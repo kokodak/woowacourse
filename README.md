@@ -1,4 +1,4 @@
-# 우아한테크코스 기록들
+# 🪐 우아한테크코스 기록들
 
 <img src="https://github.com/kokodak/woowacourse/assets/45879491/0ae39a4e-5ba5-4c91-bc17-b407ec11eb3e" width="35%" height="35%">
 
@@ -115,14 +115,48 @@
 
 <br/>
 
-## 알고리즘 대회, 스터디 운영
+## 🏆 알고리즘 대회, 스터디 운영
+
+### 대회 운영 (2023.09 ~ 2023.11)
+
+<img width="70%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/454287df-d44b-48bb-be59-2989551d7a49">
+<img width="70%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/b4a46cac-ad7e-4bb4-8990-b193eced1827">
+
+- 참여자 수 106명 규모의 알고리즘 연습 대회 운영
+- 문제 풀이 및 난이도 검수 후 대회 문제에 반영
+
+### 스터디 운영 (2023.07 ~ 2023.11)
+
+- 백준 알고리즘 스터디 그룹 운영
+- 알고리즘 개념 설명 및 대표 문제 풀이 진행
+  - 완전 탐색
+  - 이분 탐색
+  - 백트래킹
+  - 투 포인터
+  - BFS
+  - DFS
+  - 비트마스킹
+  - DP
+  - 유니온 파인드
 
 <br/>
 
-## 테코톡
+## 🎥 테코톡 : 크루들과 함께 지식을 나누고 대화하는 시간
+
+### 발표 주제: JDBC
+
+<a href="https://www.youtube.com/watch?v=ONYVhJGl48U" target="_blank">
+<img width="50%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/3cb45e19-e341-4b56-880b-01637ab123c6">
+</a>
+
+[[10분 테코톡] 코코닥의 JDBC](https://www.youtube.com/watch?v=ONYVhJGl48U)
 
 <br/>
 
-## 글쓰기
+## 📝 글쓰기
 
-<br/>
+| Topic | Repository | Pull Request |
+|:-----:|:-----:|:-----:|
+| 우아한테크코스 한 달 생활기 | [글 링크](https://github.com/kokodak/woowa-writing-5/blob/main/README.md) | [PR 링크](https://github.com/woowacourse/woowa-writing-5/pull/151) |
+| 바래지 않은, 쨍한 색의 삶 | [글 링크](https://github.com/kokodak/woowa-writing-5/blob/main/level2.md) | [PR 링크](https://github.com/woowacourse/woowa-writing-5/pull/289) |
+| 내가 꿈꾸는 프로그래머의 삶 | [글 링크](https://github.com/kokodak/woowa-writing-5/blob/main/level4.md) | [PR 링크](https://github.com/woowacourse/woowa-writing-5/pull/496) |
