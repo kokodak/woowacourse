@@ -29,8 +29,8 @@
 | 사다리 타기 2단계 | [저장소 링크](https://github.com/kokodak/java-ladder/tree/step2) | [PR 링크](https://github.com/woowacourse/java-ladder/pull/209) | | [파즈](https://github.com/Be-poz) |
 | 블랙잭 1단계 | [저장소 링크](https://github.com/kokodak/java-blackjack/tree/step1) | [PR 링크](https://github.com/woowacourse/java-blackjack/pull/448) | [다즐](https://github.com/woo-chang) | [다니](https://github.com/da-nyee) |
 | 블랙잭 2단계 | [저장소 링크](https://github.com/kokodak/java-blackjack/tree/step2) | [PR 링크](https://github.com/woowacourse/java-blackjack/pull/586) | | [다니](https://github.com/da-nyee) |
-| 체스 1,2단계 | [저장소 링크](https://github.com/kokodak/java-chess/tree/step1) | [PR 링크](https://github.com/woowacourse/java-chess/pull/520) | [무민](https://github.com/parkmuhyeun) | [범블비](https://github.com/ddaaac) |
-| 체스 3,4단계 | [저장소 링크](https://github.com/kokodak/java-chess/tree/step2) | [PR 링크](https://github.com/woowacourse/java-chess/pull/629) | | [범블비](https://github.com/ddaaac) |
+| 체스 1, 2단계 | [저장소 링크](https://github.com/kokodak/java-chess/tree/step1) | [PR 링크](https://github.com/woowacourse/java-chess/pull/520) | [무민](https://github.com/parkmuhyeun) | [범블비](https://github.com/ddaaac) |
+| 체스 3, 4단계 | [저장소 링크](https://github.com/kokodak/java-chess/tree/step2) | [PR 링크](https://github.com/woowacourse/java-chess/pull/629) | | [범블비](https://github.com/ddaaac) |
 
 ## 레벨 2
 
