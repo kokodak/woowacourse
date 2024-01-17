@@ -1,6 +1,6 @@
 # 🪐 우아한테크코스 기록들
 
-<img src="https://github.com/kokodak/woowacourse/assets/45879491/0ae39a4e-5ba5-4c91-bc17-b407ec11eb3e" width="35%" height="35%">
+<img src="https://github.com/kokodak/woowacourse/assets/45879491/0ae39a4e-5ba5-4c91-bc17-b407ec11eb3e" width="40%">
 
 #### [우아한테크코스](https://www.woowacourse.io/) 5기 백엔드 과정에서 ` 코코닥 ` 이란 닉네임으로 활동한 내용들을 기록합니다.
 
@@ -72,7 +72,7 @@
 #### 이곳이 어딘지 맞출 수 있을까요? 당신의 경험, 지식, 추리력을 시험해 보세요!
 
 <a href="https://github.com/woowacourse-teams/2023-naaga" target="_blank">
-<img src="https://github.com/kokodak/woowacourse/assets/45879491/6113b573-9ebd-4ada-af0e-07ff3585f9a1" width="70%" height="70%">
+<img src="https://github.com/kokodak/woowacourse/assets/45879491/6113b573-9ebd-4ada-af0e-07ff3585f9a1" width="90%">
 </a>
 
 > 위 이미지 클릭 시, 나아가 프로젝트 저장소로 이동합니다.
@@ -119,8 +119,8 @@
 
 ### 대회 운영 (2023.09 ~ 2023.11)
 
-<img width="70%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/454287df-d44b-48bb-be59-2989551d7a49">
-<img width="70%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/b4a46cac-ad7e-4bb4-8990-b193eced1827">
+<img width="90%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/454287df-d44b-48bb-be59-2989551d7a49">
+<img width="90%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/b4a46cac-ad7e-4bb4-8990-b193eced1827">
 
 - 참여자 수 106명 규모의 알고리즘 연습 대회 운영
 - 문제 풀이 및 난이도 검수 후 대회 문제에 반영
@@ -146,7 +146,7 @@
 ### 발표 주제: JDBC
 
 <a href="https://www.youtube.com/watch?v=ONYVhJGl48U" target="_blank">
-<img width="50%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/3cb45e19-e341-4b56-880b-01637ab123c6">
+<img width="60%" alt="image" src="https://github.com/kokodak/woowacourse/assets/45879491/3cb45e19-e341-4b56-880b-01637ab123c6">
 </a>
 
 [[10분 테코톡] 코코닥의 JDBC](https://www.youtube.com/watch?v=ONYVhJGl48U)
